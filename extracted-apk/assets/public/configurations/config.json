@@ -1,0 +1,16 @@
+{
+    "apiBaseUrl": "https://hg-customer-api-prod.sporty-tech.net/api/",
+    "apiAuthenticationBaseUrl": "https://hg-authentication-api-prod.sporty-tech.net/api/",
+    "apiEventsBaseUrl": "https://hg-event-api-prod.sporty-tech.net/api/",
+    "apiBettingBaseUrl": "https://hg-betting-api-prod.sporty-tech.net/api/",
+    "instrumentationKey": "0392f7c0-00f0-4cfa-bcf3-09919d387c44",
+    "liveApiBaseUrl": "https://hg-push-api-prod.sporty-tech.net/",
+    "flagsBaseUrl": "https://storage-prod.sporty-tech.net/flags/",
+    "virtualTeamsFlagsBaseUrl": "https://storage-prod.sporty-tech.net/virtual/teams/",
+    "apiProxyBaseUrl": "https://ks.gy/",
+    "apiPaymentProviderBaseUrl": "https://hg-payment-api-prod.sporty-tech.net/api/",
+    "assetsPath": "https://storage-prod.sporty-tech.net/apps/",
+    "staticAssetsPath": "https://hgstorageprod.blob.core.windows.net/customer/",
+    "showThemesSelector": false,
+    "appVersion": "35215"
+}

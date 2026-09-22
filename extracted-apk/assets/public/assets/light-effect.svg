@@ -1,0 +1,26 @@
+<svg width="331" height="280" viewBox="0 0 331 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.33" clip-path="url(#clip0_1442_9473)">
+<mask id="mask0_1442_9473" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-30" y="-14" width="391" height="307">
+<ellipse cx="165.717" cy="139.59" rx="195" ry="153" fill="url(#paint0_radial_1442_9473)"/>
+</mask>
+<g mask="url(#mask0_1442_9473)">
+<path d="M162.731 138.926L218.093 267.527L167.044 280.104L162.731 138.926Z"/>
+<path d="M164.631 142.935L107.13 13.0204L158.179 0.443256L164.631 142.935Z"/>
+<path d="M161.766 137.236L101.096 286.739L55.4864 265.66L161.766 137.236Z"/>
+<path d="M165.009 142.242L225.68 -7.26074L271.289 13.8185L165.009 142.242Z"/>
+<path d="M161.065 134.832L284.243 239.039L314.839 199.184L161.065 134.832Z"/>
+<path d="M165.111 142.216L41.9336 38.0089L11.3369 77.8634L165.111 142.216Z"/>
+<path d="M165.098 137.2L-7.16408 157.086L4.66897 202.727L165.098 137.2Z"/>
+<path d="M165.639 138.014L338.034 119.819L326.755 74.0387L165.639 138.014Z"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_1442_9473" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(165.717 139.591) rotate(90) scale(121.307 154.607)">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#737373" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_1442_9473">
+<rect width="330.995" height="279.245" transform="translate(330.995 279.245) rotate(-180)"/>
+</clipPath>
+</defs>
+</svg>
