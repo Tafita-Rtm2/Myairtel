@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="181px" height="75px" viewBox="0 0 181 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5B180CD9-7A38-4544-9F84-83664BC8FF8B</title>
+    <defs>
+        <filter x="-11.3%" y="-35.7%" width="122.6%" height="171.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-UI-Penalty-Accueil-Jouez-2" transform="translate(-629.000000, -404.000000)">
+            <g id="Game-desktop" transform="translate(454.000000, 141.000000)">
+                <g id="Desktop/Gain" transform="translate(185.000000, 273.000000)">
+                    <g id="Group-2" filter="url(#filter-1)" transform="translate(3.000000, 3.000000)">
+                        <g id="Group-3">
+                            <rect id="Rectangle-Copy-18" fill="#000000" x="0" y="0" width="155" height="49" rx="5"></rect>
+                            <polygon id="Rectangle" fill="#FFFFFF" points="17.010422 2.99041822 25.0154085 2.99041822 13.010422 45.9855236 4.98765193 45.9855236"></polygon>
+                            <polygon id="Rectangle-Copy-13" fill="#FFFFFF" points="28.010422 2.99041822 36.0154085 2.99041822 24.010422 45.9855236 15.9876519 45.9855236"></polygon>
+                            <polygon id="Rectangle-Copy-14" fill="#FFFFFF" points="39.010422 2.99041822 47.0154085 2.99041822 35.010422 45.9855236 26.9876519 45.9855236"></polygon>
+                            <polygon id="Rectangle-Copy-17" fill="#FFFFFF" transform="translate(118.001530, 24.487971) scale(-1, 1) translate(-118.001530, -24.487971) " points="120.010422 2.99041822 128.015408 2.99041822 116.010422 45.9855236 107.987652 45.9855236"></polygon>
+                            <polygon id="Rectangle-Copy-16" fill="#FFFFFF" transform="translate(129.001530, 24.487971) scale(-1, 1) translate(-129.001530, -24.487971) " points="131.010422 2.99041822 139.015408 2.99041822 127.010422 45.9855236 118.987652 45.9855236"></polygon>
+                            <polygon id="Rectangle-Copy-15" fill="#FFFFFF" transform="translate(140.001530, 24.487971) scale(-1, 1) translate(-140.001530, -24.487971) " points="142.010422 2.99041822 150.015408 2.99041822 138.010422 45.9855236 129.987652 45.9855236"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

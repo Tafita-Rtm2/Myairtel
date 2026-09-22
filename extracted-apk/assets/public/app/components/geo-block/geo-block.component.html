@@ -1,0 +1,27 @@
+<div class="geoblock">
+  <img class="geoblock__background" [src]="backgroundPath" alt="Background geoblocking" />
+  <div class="geoblock__overlay"></div>
+  <div class="geoblock__wrapper">
+    <div class="geoblock__logo">
+      <img [src]="desktopLogoPath" alt="logo" />
+    </div>
+    <div class="geoblock__content">
+      <img [src]="'/assets/geoblock/illustration.png'" alt="Geoblock illustration" />
+      <span class="geoblock__content-title">Access restricted!</span>
+      <span class="geoblock__content-text">This site is not available in your country!</span>
+    </div>
+    <div *ngIf="ipAddress" class="geoblock__ip">
+      <span>{{ ipAddress }}</span>
+    </div>
+    <div class="geoblock__support">
+      <a *ngIf="supportPhone" class="geoblock__support-item" [href]="'tel:' + supportPhone">
+        <i class="hg-whatsapp"></i>
+        <span>{{ supportPhone }}</span>
+      </a>
+      <a *ngIf="supportEmail" class="geoblock__support-item" [href]="'mailto:' + supportEmail">
+        <i class="hg-mail"></i>
+        <span>{{ supportEmail }}</span>
+      </a>
+    </div>
+  </div>
+</div>
